@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/HBF11.xsl" ?>
+<!DOCTYPE kml SYSTEM "..\dtd\HBF11.dtd">
+<kml>
+  <kmlHeader>
+    <kml_DTD kml_Version="2.9" kml_FileName="HBF01.dtd" />
+    <kml_Key kml_Developer="IBM">20240109,154327,AHAR,2,13,200,00001</kml_Key>
+  </kmlHeader>
+  <kmlBody>
+    <kml_Title>病理組織診断報告</kml_Title>
+    <kmlPiT_PatientModule>
+      <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">91483518</kmlCm_Id>
+      <kmlPiT_PersonName>
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName>まえだ　ゆきこ</kmlNm_FullName>
+        </kmlNm_Name>
+        <kmlNm_Name kmlNm_repCode="I">
+          <kmlNm_FullName>前田　由紀子</kmlNm_FullName>
+        </kmlNm_Name>
+      </kmlPiT_PersonName>
+      <kmlPiT_Category>外来</kmlPiT_Category>
+      <kmlPiT_Birthday>
+        <kmlDt_Date>
+          <kmlDt_Display>1955年03月01日</kmlDt_Display>
+          <kmlDt_System>19550301</kmlDt_System>
+        </kmlDt_Date>
+      </kmlPiT_Birthday>
+      <kmlPiT_Age>
+        <kmlPiT_Display>68歳 10ヶ月</kmlPiT_Display>
+        <kmlPiT_System>06810</kmlPiT_System>
+      </kmlPiT_Age>
+      <kmlPiT_Sex>女</kmlPiT_Sex>
+    </kmlPiT_PatientModule>
+    <kmlOrT_OrderModule>
+      <kmlOrT_Number>132401090006801</kmlOrT_Number>
+      <kmlOrT_Source>
+        <kmlOrT_Department>
+          <kmlDp_Department>
+            <kmlDp_Name kmlDp_repCode="I" kmlDp_tableId="KML0004">歯科口腔外科</kmlDp_Name>
+            <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0003">14</kmlCm_Id>
+          </kmlDp_Department>
+        </kmlOrT_Department>
+        <kmlOrT_Doctor>
+          <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">SH019540</kmlCm_Id>
+          <kmlNm_Name kmlNm_repCode="I" kmlNm_tableId="KML0004">
+            <kmlNm_FullName>福原　紫津子</kmlNm_FullName>
+          </kmlNm_Name>
+        </kmlOrT_Doctor>
+      </kmlOrT_Source>
+      <kmlOrT_Department>
+        <kmlDp_Department>
+          <kmlDp_Name kmlDp_repCode="I" kmlDp_tableId="KML0004">歯科口腔外科</kmlDp_Name>
+          <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0003">14</kmlCm_Id>
+        </kmlDp_Department>
+      </kmlOrT_Department>
+      <kmlOrT_Category>組織診</kmlOrT_Category>
+      <kmlOrT_Type>上顎</kmlOrT_Type>
+      <kmlOrT_Clinical>
+        <kmlOrT_Title>臨床情報</kmlOrT_Title>
+        <kmlOrT_Disease>Ｐｅｒ［右上２，左上６］</kmlOrT_Disease>
+        <kmlOrT_Purpose />
+        <kmlOrT_Remark>左上2、左上6根尖に歯根嚢胞様所見を認め、摘出し提出しています。
+悪性の有無を含め、確定診断お願いします。</kmlOrT_Remark>
+        <kmlCom_Comment>
+          <kmlCom_Title>コメント</kmlCom_Title>
+          <kmlCom_Contents>左上2、左上6根尖に歯根嚢胞様所見を認め、摘出し提出しています。
+悪性の有無を含め、確定診断お願いします。</kmlCom_Contents>
+        </kmlCom_Comment>
+      </kmlOrT_Clinical>
+    </kmlOrT_OrderModule>
+    <kmlOpeT_OperationModule>
+      <kmlOpeT_Operator>
+        <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001" />
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName />
+        </kmlNm_Name>
+        <kmlOpeT_Division />
+      </kmlOpeT_Operator>
+      <kmlDt_Date>
+        <kmlDt_Display>2024年01月09日</kmlDt_Display>
+        <kmlDt_System>20240109</kmlDt_System>
+      </kmlDt_Date>
+    </kmlOpeT_OperationModule>
+    <kmlRepT_ReportModule>
+      <kmlRepT_Status>
+        <kmlRepT_Display>完了（最終）</kmlRepT_Display>
+        <kmlRepT_Data kml_Developer="IBM">9</kmlRepT_Data>
+      </kmlRepT_Status>
+      <kmlDt_Date>
+        <kmlDt_Display>2024年01月14日</kmlDt_Display>
+        <kmlDt_System>20240114</kmlDt_System>
+      </kmlDt_Date>
+      <kmlRepT_Reporter>
+        <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">23427899</kmlCm_Id>
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName>辻　賢太郎</kmlNm_FullName>
+        </kmlNm_Name>
+        <kmlRepT_Division>医師</kmlRepT_Division>
+      </kmlRepT_Reporter>
+      <kmlRepT_Result>
+        <kmlRepT_Title />
+      </kmlRepT_Result>
+      <kmlRepT_Diagnosis>
+        <kmlCom_Comment>
+          <kmlCom_Title>所見</kmlCom_Title>
+          <kmlCom_Contents>Maxilla, left side, excision:&lt;br/&gt;- Compatible with radicular cyst.&lt;br/&gt;&lt;br/&gt;【検体】&lt;br/&gt;左上顎摘出&lt;br/&gt;&lt;br/&gt;【組織学的所見】&lt;br/&gt;多数の形質細胞浸潤を伴う線維性組織で、その一部は異型のない重層扁平上皮で覆われています。歯根嚢胞としても矛盾しない像です。悪性所見はありません。&lt;br/&gt;</kmlCom_Contents>
+        </kmlCom_Comment>
+      </kmlRepT_Diagnosis>
+      <kmlRepTBF_Domain>
+        <kmlRepTBF_PathologyNum>H24-00133</kmlRepTBF_PathologyNum>
+        <kmlRepTBF_ReceivingDate>
+          <kmlDt_Date>
+            <kmlDt_Display>2024年01月09日</kmlDt_Display>
+            <kmlDt_System>20240109</kmlDt_System>
+          </kmlDt_Date>
+        </kmlRepTBF_ReceivingDate>
+        <kmlRepTBF_SamplingDate>
+          <kmlDt_Date>
+            <kmlDt_Display>2024年01月09日</kmlDt_Display>
+            <kmlDt_System>20240109</kmlDt_System>
+          </kmlDt_Date>
+        </kmlRepTBF_SamplingDate>
+        <kmlRepTBF_Specimen>上顎</kmlRepTBF_Specimen>
+        <kmlRepTBF_Version>1</kmlRepTBF_Version>
+        <kmlRepTBF_VersionName>通常診断</kmlRepTBF_VersionName>
+        <kmlRepTBF_Revision>1</kmlRepTBF_Revision>
+        <kmlRepTBF_PhaseCode>60</kmlRepTBF_PhaseCode>
+        <kmlRepTBF_PhaseName>最終診断</kmlRepTBF_PhaseName>
+        <kmlRepTBF_AppendReporter2>羽賀  博典</kmlRepTBF_AppendReporter2>
+        <kmlRepTBF_DiagnosisMaterial>
+          <kmlRepTBF_DiagnosisNo>1</kmlRepTBF_DiagnosisNo>
+          <kmlRepTBF_MaterialCode>20390</kmlRepTBF_MaterialCode>
+          <kmlRepTBF_MaterialName>上顎</kmlRepTBF_MaterialName>
+          <kmlRepTBF_ClassCode>
+          </kmlRepTBF_ClassCode>
+          <kmlRepTBF_ClassName>
+          </kmlRepTBF_ClassName>
+          <kmlRepTBF_JudgeCode>
+          </kmlRepTBF_JudgeCode>
+          <kmlRepTBF_JudgeName>
+          </kmlRepTBF_JudgeName>
+          <kmlRepTBF_DiagnosisCode1>
+          </kmlRepTBF_DiagnosisCode1>
+          <kmlRepTBF_DiagnosisCode2>
+          </kmlRepTBF_DiagnosisCode2>
+          <kmlRepTBF_DiagnosisText1>
+          </kmlRepTBF_DiagnosisText1>
+        </kmlRepTBF_DiagnosisMaterial>
+        <kmlRepTBF_FileName>HBFAA01202401140000.xml</kmlRepTBF_FileName>
+      </kmlRepTBF_Domain>
+    </kmlRepT_ReportModule>
+  </kmlBody>
+</kml>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/HBF11.xsl" ?>
+<!DOCTYPE kml SYSTEM "..\dtd\HBF11.dtd">
+<kml>
+  <kmlHeader>
+    <kml_DTD kml_Version="2.9" kml_FileName="HBF01.dtd" />
+    <kml_Key kml_Developer="IBM">20240109,155202,AIDG,2,13,200,00001</kml_Key>
+  </kmlHeader>
+  <kmlBody>
+    <kml_Title>病理組織診断報告</kml_Title>
+    <kmlPiT_PatientModule>
+      <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">51416034</kmlCm_Id>
+      <kmlPiT_PersonName>
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName>たかおか　みれい</kmlNm_FullName>
+        </kmlNm_Name>
+        <kmlNm_Name kmlNm_repCode="I">
+          <kmlNm_FullName>髙岡　美礼</kmlNm_FullName>
+        </kmlNm_Name>
+      </kmlPiT_PersonName>
+      <kmlPiT_Category>入院</kmlPiT_Category>
+      <kmlPiT_Birthday>
+        <kmlDt_Date>
+          <kmlDt_Display>2017年11月24日</kmlDt_Display>
+          <kmlDt_System>20171124</kmlDt_System>
+        </kmlDt_Date>
+      </kmlPiT_Birthday>
+      <kmlPiT_Age>
+        <kmlPiT_Display>6歳 1ヶ月</kmlPiT_Display>
+        <kmlPiT_System>00601</kmlPiT_System>
+      </kmlPiT_Age>
+      <kmlPiT_Sex>女</kmlPiT_Sex>
+      <kmlPiT_Ward>北病棟4F</kmlPiT_Ward>
+    </kmlPiT_PatientModule>
+    <kmlOrT_OrderModule>
+      <kmlOrT_Number>132401090006901</kmlOrT_Number>
+      <kmlOrT_Source>
+        <kmlOrT_Department>
+          <kmlDp_Department>
+            <kmlDp_Name kmlDp_repCode="I" kmlDp_tableId="KML0004">形成外科</kmlDp_Name>
+            <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0003">19</kmlCm_Id>
+          </kmlDp_Department>
+        </kmlOrT_Department>
+        <kmlOrT_Doctor>
+          <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">23152099</kmlCm_Id>
+          <kmlNm_Name kmlNm_repCode="I" kmlNm_tableId="KML0004">
+            <kmlNm_FullName>青﨑　知彦</kmlNm_FullName>
+          </kmlNm_Name>
+        </kmlOrT_Doctor>
+      </kmlOrT_Source>
+      <kmlOrT_Department>
+        <kmlDp_Department>
+          <kmlDp_Name kmlDp_repCode="I" kmlDp_tableId="KML0004">形成外科</kmlDp_Name>
+          <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0003">19</kmlCm_Id>
+        </kmlDp_Department>
+      </kmlOrT_Department>
+      <kmlOrT_Category>組織診</kmlOrT_Category>
+      <kmlOrT_Type>皮下組織</kmlOrT_Type>
+      <kmlOrT_Clinical>
+        <kmlOrT_Title>臨床情報</kmlOrT_Title>
+        <kmlOrT_Disease>右顔面母斑細胞母斑</kmlOrT_Disease>
+        <kmlOrT_Purpose />
+        <kmlOrT_Remark>＃右前額部皮下組織
+右顔面色素性母斑切除後の前額部瘢痕修正術を施行した際の、皮下組織です。臨床的に、瘢痕組織、前頭筋を考えます。
+貴科的御高診をお願いします。</kmlOrT_Remark>
+        <kmlCom_Comment>
+          <kmlCom_Title>コメント</kmlCom_Title>
+          <kmlCom_Contents>＃右前額部皮下組織
+右顔面色素性母斑切除後の前額部瘢痕修正術を施行した際の、皮下組織です。臨床的に、瘢痕組織、前頭筋を考えます。
+貴科的御高診をお願いします。</kmlCom_Contents>
+        </kmlCom_Comment>
+      </kmlOrT_Clinical>
+    </kmlOrT_OrderModule>
+    <kmlOpeT_OperationModule>
+      <kmlOpeT_Operator>
+        <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001" />
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName />
+        </kmlNm_Name>
+        <kmlOpeT_Division />
+      </kmlOpeT_Operator>
+      <kmlDt_Date>
+        <kmlDt_Display>2024年01月09日</kmlDt_Display>
+        <kmlDt_System>20240109</kmlDt_System>
+      </kmlDt_Date>
+    </kmlOpeT_OperationModule>
+    <kmlRepT_ReportModule>
+      <kmlRepT_Status>
+        <kmlRepT_Display>完了（最終）</kmlRepT_Display>
+        <kmlRepT_Data kml_Developer="IBM">9</kmlRepT_Data>
+      </kmlRepT_Status>
+      <kmlDt_Date>
+        <kmlDt_Display>2024年01月14日</kmlDt_Display>
+        <kmlDt_System>20240114</kmlDt_System>
+      </kmlDt_Date>
+      <kmlRepT_Reporter>
+        <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">23427899</kmlCm_Id>
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName>辻　賢太郎</kmlNm_FullName>
+        </kmlNm_Name>
+        <kmlRepT_Division>医師</kmlRepT_Division>
+      </kmlRepT_Reporter>
+      <kmlRepT_Result>
+        <kmlRepT_Title />
+      </kmlRepT_Result>
+      <kmlRepT_Diagnosis>
+        <kmlCom_Comment>
+          <kmlCom_Title>所見</kmlCom_Title>
+          <kmlCom_Contents>Subcutaneous tissue, forehead, right side, excision:&lt;br/&gt;- Fibrous tissue, compatible with scar.&lt;br/&gt;&lt;br/&gt;【検体】&lt;br/&gt;右前額部皮下組織切除 (9 mm)&lt;br/&gt;&lt;br/&gt;【組織学的所見】&lt;br/&gt;横紋筋や脂肪を含む線維性間質組織です。瘢痕としても矛盾しません。悪性所見はありません。&lt;br/&gt;</kmlCom_Contents>
+        </kmlCom_Comment>
+      </kmlRepT_Diagnosis>
+      <kmlRepTBF_Domain>
+        <kmlRepTBF_PathologyNum>H24-00138</kmlRepTBF_PathologyNum>
+        <kmlRepTBF_ReceivingDate>
+          <kmlDt_Date>
+            <kmlDt_Display>2024年01月09日</kmlDt_Display>
+            <kmlDt_System>20240109</kmlDt_System>
+          </kmlDt_Date>
+        </kmlRepTBF_ReceivingDate>
+        <kmlRepTBF_SamplingDate>
+          <kmlDt_Date>
+            <kmlDt_Display>2024年01月09日</kmlDt_Display>
+            <kmlDt_System>20240109</kmlDt_System>
+          </kmlDt_Date>
+        </kmlRepTBF_SamplingDate>
+        <kmlRepTBF_Specimen>皮下組織</kmlRepTBF_Specimen>
+        <kmlRepTBF_Version>1</kmlRepTBF_Version>
+        <kmlRepTBF_VersionName>通常診断</kmlRepTBF_VersionName>
+        <kmlRepTBF_Revision>1</kmlRepTBF_Revision>
+        <kmlRepTBF_PhaseCode>60</kmlRepTBF_PhaseCode>
+        <kmlRepTBF_PhaseName>最終診断</kmlRepTBF_PhaseName>
+        <kmlRepTBF_AppendReporter2>羽賀  博典</kmlRepTBF_AppendReporter2>
+        <kmlRepTBF_DiagnosisMaterial>
+          <kmlRepTBF_DiagnosisNo>1</kmlRepTBF_DiagnosisNo>
+          <kmlRepTBF_MaterialCode>20730</kmlRepTBF_MaterialCode>
+          <kmlRepTBF_MaterialName>皮下組織</kmlRepTBF_MaterialName>
+          <kmlRepTBF_ClassCode>
+          </kmlRepTBF_ClassCode>
+          <kmlRepTBF_ClassName>
+          </kmlRepTBF_ClassName>
+          <kmlRepTBF_JudgeCode>
+          </kmlRepTBF_JudgeCode>
+          <kmlRepTBF_JudgeName>
+          </kmlRepTBF_JudgeName>
+          <kmlRepTBF_DiagnosisCode1>
+          </kmlRepTBF_DiagnosisCode1>
+          <kmlRepTBF_DiagnosisCode2>
+          </kmlRepTBF_DiagnosisCode2>
+          <kmlRepTBF_DiagnosisText1>
+          </kmlRepTBF_DiagnosisText1>
+        </kmlRepTBF_DiagnosisMaterial>
+        <kmlRepTBF_FileName>HBFAA01202401140001.xml</kmlRepTBF_FileName>
+      </kmlRepTBF_Domain>
+    </kmlRepT_ReportModule>
+  </kmlBody>
+</kml>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/HBF11.xsl" ?>
+<!DOCTYPE kml SYSTEM "..\dtd\HBF11.dtd">
+<kml>
+  <kmlHeader>
+    <kml_DTD kml_Version="2.9" kml_FileName="HBF01.dtd" />
+    <kml_Key kml_Developer="IBM">20231212,160505,AHYX,2,13,200,00001</kml_Key>
+  </kmlHeader>
+  <kmlBody>
+    <kml_Title>病理組織診断報告</kml_Title>
+    <kmlPiT_PatientModule>
+      <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">83074397</kmlCm_Id>
+      <kmlPiT_PersonName>
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName>ささき　あおい</kmlNm_FullName>
+        </kmlNm_Name>
+        <kmlNm_Name kmlNm_repCode="I">
+          <kmlNm_FullName>佐々木　葵</kmlNm_FullName>
+        </kmlNm_Name>
+      </kmlPiT_PersonName>
+      <kmlPiT_Category>入院</kmlPiT_Category>
+      <kmlPiT_Birthday>
+        <kmlDt_Date>
+          <kmlDt_Display>1978年08月22日</kmlDt_Display>
+          <kmlDt_System>19780822</kmlDt_System>
+        </kmlDt_Date>
+      </kmlPiT_Birthday>
+      <kmlPiT_Age>
+        <kmlPiT_Display>45歳 3ヶ月</kmlPiT_Display>
+        <kmlPiT_System>04503</kmlPiT_System>
+      </kmlPiT_Age>
+      <kmlPiT_Sex>女</kmlPiT_Sex>
+      <kmlPiT_Ward>積貞棟4F</kmlPiT_Ward>
+    </kmlPiT_PatientModule>
+    <kmlOrT_OrderModule>
+      <kmlOrT_Number>132312120007401</kmlOrT_Number>
+      <kmlOrT_Source>
+        <kmlOrT_Department>
+          <kmlDp_Department>
+            <kmlDp_Name kmlDp_repCode="I" kmlDp_tableId="KML0004">呼吸器外科</kmlDp_Name>
+            <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0003">39</kmlCm_Id>
+          </kmlDp_Department>
+        </kmlOrT_Department>
+        <kmlOrT_Doctor>
+          <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">18147399</kmlCm_Id>
+          <kmlNm_Name kmlNm_repCode="I" kmlNm_tableId="KML0004">
+            <kmlNm_FullName>松本　瞭</kmlNm_FullName>
+          </kmlNm_Name>
+        </kmlOrT_Doctor>
+      </kmlOrT_Source>
+      <kmlOrT_Department>
+        <kmlDp_Department>
+          <kmlDp_Name kmlDp_repCode="I" kmlDp_tableId="KML0004">呼吸器外科</kmlDp_Name>
+          <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0003">39</kmlCm_Id>
+        </kmlDp_Department>
+      </kmlOrT_Department>
+      <kmlOrT_Category>組織診</kmlOrT_Category>
+      <kmlOrT_Type>肺</kmlOrT_Type>
+      <kmlOrT_Type>リンパ節</kmlOrT_Type>
+      <kmlOrT_Type>胸膜</kmlOrT_Type>
+      <kmlOrT_Clinical>
+        <kmlOrT_Title>臨床情報</kmlOrT_Title>
+        <kmlOrT_Disease>下葉肺癌</kmlOrT_Disease>
+        <kmlOrT_Purpose />
+        <kmlOrT_Remark>前医で左肺下葉扁平上皮癌に対して化学療法後。左肺下葉の局所再発病変に対して2023/12/12胸腔鏡下左肺下葉切除術を施行しました。
+
+悪性所見の有無について御評価お願いします。
+
+尚、肺癌であれば当院でも改めて遺伝子変異とPD-L1について御評価お願いします。
+
+
+（以下、治療経過詳細）
+左肺下葉肺癌T2aN0M1a（胸膜播種）
+前医気管支鏡生検で扁平上皮癌、Her2陽性と診断。
+2022/6/22試験開胸　（術中に胸膜播種指摘）
+6/24　胸腔内CBDCA150ｍｇ　投与
+CBDCA+PAC+Pembro4コース後+維持療法Pembro12コース後（最終投与2023/8/18）
+2023/9全身精査で左肺下葉の病変のみ進行
+DTX+RAM2コース施行　易出血傾向で中止
+2023/11当院へ紹介
+
+（がん診野溝先生から紹介）</kmlOrT_Remark>
+        <kmlCom_Comment>
+          <kmlCom_Title>コメント</kmlCom_Title>
+          <kmlCom_Contents>前医で左肺下葉扁平上皮癌に対して化学療法後。左肺下葉の局所再発病変に対して2023/12/12胸腔鏡下左肺下葉切除術を施行しました。
+
+悪性所見の有無について御評価お願いします。
+
+尚、肺癌であれば当院でも改めて遺伝子変異とPD-L1について御評価お願いします。
+
+
+（以下、治療経過詳細）
+左肺下葉肺癌T2aN0M1a（胸膜播種）
+前医気管支鏡生検で扁平上皮癌、Her2陽性と診断。
+2022/6/22試験開胸　（術中に胸膜播種指摘）
+6/24　胸腔内CBDCA150ｍｇ　投与
+CBDCA+PAC+Pembro4コース後+維持療法Pembro12コース後（最終投与2023/8/18）
+2023/9全身精査で左肺下葉の病変のみ進行
+DTX+RAM2コース施行　易出血傾向で中止
+2023/11当院へ紹介
+
+（がん診野溝先生から紹介）</kmlCom_Contents>
+        </kmlCom_Comment>
+      </kmlOrT_Clinical>
+    </kmlOrT_OrderModule>
+    <kmlOpeT_OperationModule>
+      <kmlOpeT_Operator>
+        <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001" />
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName />
+        </kmlNm_Name>
+        <kmlOpeT_Division />
+      </kmlOpeT_Operator>
+      <kmlDt_Date>
+        <kmlDt_Display>2023年12月12日</kmlDt_Display>
+        <kmlDt_System>20231212</kmlDt_System>
+      </kmlDt_Date>
+    </kmlOpeT_OperationModule>
+    <kmlRepT_ReportModule>
+      <kmlRepT_Status>
+        <kmlRepT_Display>完了（追加）</kmlRepT_Display>
+        <kmlRepT_Data kml_Developer="IBM">7</kmlRepT_Data>
+      </kmlRepT_Status>
+      <kmlDt_Date>
+        <kmlDt_Display>2024年01月13日</kmlDt_Display>
+        <kmlDt_System>20240113</kmlDt_System>
+      </kmlDt_Date>
+      <kmlRepT_Reporter>
+        <kmlCm_Id kmlCm_type="facility" kmlCm_tableId="KML0001">20194799</kmlCm_Id>
+        <kmlNm_Name kmlNm_repCode="P">
+          <kmlNm_FullName>寺田　和弘</kmlNm_FullName>
+        </kmlNm_Name>
+        <kmlRepT_Division>医師</kmlRepT_Division>
+      </kmlRepT_Reporter>
+      <kmlRepT_Result>
+        <kmlRepT_Title />
+        <kmlImgT_ImageReference>
+          <kmlImgT_Title>
+          </kmlImgT_Title>
+          <kmlImgT_Href>HBFAA01202401130000_01.JPG</kmlImgT_Href>
+        </kmlImgT_ImageReference>
+        <kmlImgT_ImageReference>
+          <kmlImgT_Title>
+          </kmlImgT_Title>
+          <kmlImgT_Href>HBFAA01202401130000_02.JPG</kmlImgT_Href>
+        </kmlImgT_ImageReference>
+        <kmlImgT_ImageReference>
+          <kmlImgT_Title>
+          </kmlImgT_Title>
+          <kmlImgT_Href>HBFAA01202401130000_03.JPG</kmlImgT_Href>
+        </kmlImgT_ImageReference>
+        <kmlImgT_ImageReference>
+          <kmlImgT_Title>
+          </kmlImgT_Title>
+          <kmlImgT_Href>HBFAA01202401130000_04.JPG</kmlImgT_Href>
+        </kmlImgT_ImageReference>
+        <kmlImgT_ImageReference>
+          <kmlImgT_Title>
+          </kmlImgT_Title>
+          <kmlImgT_Href>HBFAA01202401130000_05.JPG</kmlImgT_Href>
+        </kmlImgT_ImageReference>
+        <kmlImgT_ImageReference>
+          <kmlImgT_Title>
+          </kmlImgT_Title>
+          <kmlImgT_Href>HBFAA01202401130000_06.JPG</kmlImgT_Href>
+        </kmlImgT_ImageReference>
+      </kmlRepT_Result>
+      <kmlRepT_Diagnosis>
+        <kmlCom_Comment>
+          <kmlCom_Title>所見</kmlCom_Title>
+          <kmlCom_Contents>Lung, left lower lobectomy, status post chemotherapy and immune checkpoint inhibitor therapy:&lt;br/&gt;- Solid adenocarcinoma.&lt;br/&gt;- Differential diagnosis includes metastatic carcinoma. &lt;br/&gt;　　Immunohistochemistry: &lt;br/&gt;　　　Positive: TRPS1, GATA3 (10%, weak), SMARCA4 (retained), CK5 (mainly for acinar component), GCDFP-15 (5%), AR (20%)&lt;br/&gt;　　　Negative: p40 (&lt;5%), TTF-1, HNF4a, NapsinA, ER, HER2 (score 0), SOX10, Mammaglobin (&lt;1%), Pan-Trk&lt;br/&gt;　　Japanese classification (8th): Lt, L, 2.4 x 1.5 x 1.3 cm (invasion: 24 mm), solid predominant (solid 70%, acinar 15%, cribriform 15%), pm0, pl1, Ly1, V0 (EVG), pa (-), pv (-), br (-)&lt;br/&gt;　　IASLC grade: Grade 3&lt;br/&gt;　　Spread through air spaces (STAS): Present&lt;br/&gt;　　Surgical margin: Negative&lt;br/&gt;　　UICC 8th: ypT2a ypN1&lt;br/&gt;    Therapeutic effect: Ef.1a&lt;br/&gt;Pleura, left, partial excision:&lt;br/&gt;- Fibrous tissue.&lt;br/&gt;Lymph node, dissection:&lt;br/&gt;- Metastatic carcinoma (3/12)&lt;br/&gt;&lt;br/&gt;【追加報告2】&lt;br/&gt;術前治療症例であるため、治療効果判定を追記しました。&lt;br/&gt;全体的に70%の腫瘍が残存していると考えられ、Ef.1aに相当します。&lt;br/&gt;以下所見に変更はありません。&lt;br/&gt;&lt;br/&gt;【追加報告】&lt;br/&gt;追加で行った免疫染色結果は上記の通りです。診断文を Solid adenocarcinoma に変更します。他臓器の癌の転移は鑑別に残ります。&lt;br/&gt;(以下、初回報告分)&lt;br/&gt;&lt;br/&gt;【検体】&lt;br/&gt;左肺下葉切除術検体 (16.0 x 10.0 x 5.0 cm) が提出されています。水平断でスライスし、2.4 x 1.5 x 1.3 cm 大の白色充実性腫瘍を認めます。以下の通り代表部を標本としました。&lt;br/&gt;#1: 気管支断端&lt;br/&gt;#2: 血管断端&lt;br/&gt;#3: 検体内肺門リンパ節&lt;br/&gt;#4-5: 腫瘍部&lt;br/&gt;#6: 背景肺&lt;br/&gt;#7: 「胸壁両辺」として小瓶で提出された 1.0 x 1.0 x 0.4 cm の壁側胸膜切除検体、5分割し全て標本とした&lt;br/&gt;#8-12: リンパ節 (詳細下記)&lt;br/&gt;&lt;br/&gt;【組織学的所見】&lt;br/&gt;肺: 主として充実胞巣状に浸潤増殖する腫瘍を認めます。リンパ管侵襲を多数認めます。背景肺には有意な病的所見は明らかではありません。&lt;br/&gt;胸膜: 線維性組織を認めます。悪性所見は明らかではありません。&lt;br/&gt;リンパ節: 転移を認めます。詳細は以下の通りです。&lt;br/&gt;#3: 検体内肺門リンパ節、1/2&lt;br/&gt;#8: station 10 リンパ節、0/2&lt;br/&gt;#9: station 11 リンパ節、1/2&lt;br/&gt;#10: station 12L リンパ節、1/4&lt;br/&gt;#11: station 7 リンパ節、0/1&lt;br/&gt;#12: station 9 リンパ節、0/1&lt;br/&gt;&lt;br/&gt;【コメント】&lt;br/&gt;免疫染色結果は肺癌としては典型的ではなく、TRPS1陽性, GATA3陽性からは乳癌の転移も鑑別に挙がります。しかし、こちらで確認できる範囲では既往歴に乳癌はなく、また、前医で実施されたオンコマインの結果は ERBB2 (HER2) の増幅でなく変異を認めており、これは乳癌として非典型的です。以上から上記の通り原発性肺癌として取り扱い規約に則り記載をし、また、遺伝子検査（肺癌マルチCDx)、PD-L1の免疫染色をオーダーしました (#5)。念のため乳癌を含めた全身の検索をお願いいたします。&lt;br/&gt;</kmlCom_Contents>
+        </kmlCom_Comment>
+      </kmlRepT_Diagnosis>
+      <kmlRepTBF_Domain>
+        <kmlRepTBF_PathologyNum>H23-12714</kmlRepTBF_PathologyNum>
+        <kmlRepTBF_ReceivingDate>
+          <kmlDt_Date>
+            <kmlDt_Display>2023年12月12日</kmlDt_Display>
+            <kmlDt_System>20231212</kmlDt_System>
+          </kmlDt_Date>
+        </kmlRepTBF_ReceivingDate>
+        <kmlRepTBF_SamplingDate>
+          <kmlDt_Date>
+            <kmlDt_Display>2023年12月12日</kmlDt_Display>
+            <kmlDt_System>20231212</kmlDt_System>
+          </kmlDt_Date>
+        </kmlRepTBF_SamplingDate>
+        <kmlRepTBF_Specimen>肺、リンパ節、胸膜</kmlRepTBF_Specimen>
+        <kmlRepTBF_Version>3</kmlRepTBF_Version>
+        <kmlRepTBF_VersionName>追加報告</kmlRepTBF_VersionName>
+        <kmlRepTBF_Revision>1</kmlRepTBF_Revision>
+        <kmlRepTBF_PhaseCode>60</kmlRepTBF_PhaseCode>
+        <kmlRepTBF_PhaseName>最終診断</kmlRepTBF_PhaseName>
+        <kmlRepTBF_AppendReporter2>羽賀  博典</kmlRepTBF_AppendReporter2>
+        <kmlRepTBF_DiagnosisMaterial>
+          <kmlRepTBF_DiagnosisNo>1</kmlRepTBF_DiagnosisNo>
+          <kmlRepTBF_MaterialCode>20530</kmlRepTBF_MaterialCode>
+          <kmlRepTBF_MaterialName>肺</kmlRepTBF_MaterialName>
+          <kmlRepTBF_ClassCode>
+          </kmlRepTBF_ClassCode>
+          <kmlRepTBF_ClassName>
+          </kmlRepTBF_ClassName>
+          <kmlRepTBF_JudgeCode>
+          </kmlRepTBF_JudgeCode>
+          <kmlRepTBF_JudgeName>
+          </kmlRepTBF_JudgeName>
+          <kmlRepTBF_DiagnosisCode1>
+          </kmlRepTBF_DiagnosisCode1>
+          <kmlRepTBF_DiagnosisCode2>
+          </kmlRepTBF_DiagnosisCode2>
+          <kmlRepTBF_DiagnosisText1>
+          </kmlRepTBF_DiagnosisText1>
+        </kmlRepTBF_DiagnosisMaterial>
+        <kmlRepTBF_DiagnosisMaterial>
+          <kmlRepTBF_DiagnosisNo>2</kmlRepTBF_DiagnosisNo>
+          <kmlRepTBF_MaterialCode>205D0</kmlRepTBF_MaterialCode>
+          <kmlRepTBF_MaterialName>リンパ節</kmlRepTBF_MaterialName>
+          <kmlRepTBF_ClassCode>
+          </kmlRepTBF_ClassCode>
+          <kmlRepTBF_ClassName>
+          </kmlRepTBF_ClassName>
+          <kmlRepTBF_JudgeCode>
+          </kmlRepTBF_JudgeCode>
+          <kmlRepTBF_JudgeName>
+          </kmlRepTBF_JudgeName>
+          <kmlRepTBF_DiagnosisCode1>
+          </kmlRepTBF_DiagnosisCode1>
+          <kmlRepTBF_DiagnosisCode2>
+          </kmlRepTBF_DiagnosisCode2>
+          <kmlRepTBF_DiagnosisText1>
+          </kmlRepTBF_DiagnosisText1>
+        </kmlRepTBF_DiagnosisMaterial>
+        <kmlRepTBF_FileName>HBFAA01202401130000.xml</kmlRepTBF_FileName>
+      </kmlRepTBF_Domain>
+    </kmlRepT_ReportModule>
+  </kmlBody>
+</kml>

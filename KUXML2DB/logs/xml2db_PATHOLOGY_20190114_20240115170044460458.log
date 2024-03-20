@@ -1,0 +1,4 @@
+2024-01-15 17:00:44,495 - INFO - START mode : PATHOLOGY path : \\k7vciswebrpt1\\BF\\20190114
+2024-01-15 17:00:44,542 - INFO - read:\\k7vciswebrpt1\\BF\\20190114\HBFAA01201901140000.xml
+2024-01-15 17:00:44,562 - INFO - pathology_del_ins: delete by path :\\k7vciswebrpt1\\BF\\20190114 deleted count :0
+2024-01-15 17:00:44,564 - INFO - END mode : PATHOLOGY path : \\k7vciswebrpt1\\BF\\20190114

@@ -1,0 +1,9 @@
+2024-01-15 17:01:04,913 - INFO - START mode : PATHOLOGY path : \\k7vciswebrpt1\\BF\\20190120
+2024-01-15 17:01:04,958 - ERROR - [WinError 3] 指定されたパスが見つかりません。: '\\\\k7vciswebrpt1\\\\BF\\\\20190120'
+2024-01-15 17:01:04,959 - ERROR - Traceback (most recent call last):
+  File "C:\KUXML2DB\KUXML2DB\xml2dbl.py", line 84, in <module>
+    main(report_url)
+  File "C:\KUXML2DB\KUXML2DB\xml2dbl.py", line 31, in main
+    for filename in os.listdir(report_url):
+FileNotFoundError: [WinError 3] 指定されたパスが見つかりません。: '\\\\k7vciswebrpt1\\\\BF\\\\20190120'
+

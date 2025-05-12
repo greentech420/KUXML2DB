@@ -1,7 +1,0 @@
-2024-01-15 17:00:44,284 - INFO - START mode : RADIOLOGY path : \\k7vciswebrpt1\\BG\\20190113
-2024-01-15 17:00:44,329 - INFO - read:\\k7vciswebrpt1\\BG\\20190113\HBGABR1201901130001.xml
-2024-01-15 17:00:44,340 - INFO - read:\\k7vciswebrpt1\\BG\\20190113\HBGABR1201901130002.xml
-2024-01-15 17:00:44,350 - INFO - read:\\k7vciswebrpt1\\BG\\20190113\HBGABR1201901130003.xml
-2024-01-15 17:00:44,359 - INFO - read:\\k7vciswebrpt1\\BG\\20190113\HBGABR1201901130004.xml
-2024-01-15 17:00:44,386 - INFO - radiology_del_ins: delete by path :\\k7vciswebrpt1\\BG\\20190113 deleted count :0
-2024-01-15 17:00:44,390 - INFO - END mode : RADIOLOGY path : \\k7vciswebrpt1\\BG\\20190113
